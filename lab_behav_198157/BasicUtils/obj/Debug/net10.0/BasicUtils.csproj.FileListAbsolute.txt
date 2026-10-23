@@ -1,0 +1,11 @@
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\bin\Debug\net10.0\BasicUtils.deps.json
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\bin\Debug\net10.0\BasicUtils.dll
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\bin\Debug\net10.0\BasicUtils.pdb
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\BasicUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\BasicUtils.AssemblyInfoInputs.cache
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\BasicUtils.AssemblyInfo.cs
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\BasicUtils.csproj.CoreCompileInputs.cache
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\BasicUtils.dll
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\refint\BasicUtils.dll
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\BasicUtils.pdb
+D:\studia\7Sem\ZTO\lab_behav_198157\BasicUtils\obj\Debug\net10.0\ref\BasicUtils.dll

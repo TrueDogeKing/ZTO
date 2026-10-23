@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0EE877-9D2F-46DC-9300-EB8093D32131}|TDDLab.Core\\TDDLab.Core.csproj|d:\\studia\\7sem\\zto\\lab_behav_198157\\tddlab.core\\processing\\workerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0EE877-9D2F-46DC-9300-EB8093D32131}|TDDLab.Core\\TDDLab.Core.csproj|solutionrelative:tddlab.core\\processing\\workerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0EE877-9D2F-46DC-9300-EB8093D32131}|TDDLab.Core\\TDDLab.Core.csproj|d:\\studia\\7sem\\zto\\lab_behav_198157\\tddlab.core\\processing\\invoiceprocessorimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0EE877-9D2F-46DC-9300-EB8093D32131}|TDDLab.Core\\TDDLab.Core.csproj|solutionrelative:tddlab.core\\processing\\invoiceprocessorimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A7F905-C4D1-4D39-A488-06585DE6A7F1}|TDDLab.Core.Tests\\TDDLab.Core.Tests.csproj|d:\\studia\\7sem\\zto\\lab_behav_198157\\tddlab.core.tests\\processing\\workerimpltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A7F905-C4D1-4D39-A488-06585DE6A7F1}|TDDLab.Core.Tests\\TDDLab.Core.Tests.csproj|solutionrelative:tddlab.core.tests\\processing\\workerimpltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A7F905-C4D1-4D39-A488-06585DE6A7F1}|TDDLab.Core.Tests\\TDDLab.Core.Tests.csproj|d:\\studia\\7sem\\zto\\lab_behav_198157\\tddlab.core.tests\\processing\\invoiceprocessorimpltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A7F905-C4D1-4D39-A488-06585DE6A7F1}|TDDLab.Core.Tests\\TDDLab.Core.Tests.csproj|solutionrelative:tddlab.core.tests\\processing\\invoiceprocessorimpltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A7F905-C4D1-4D39-A488-06585DE6A7F1}|TDDLab.Core.Tests\\TDDLab.Core.Tests.csproj|d:\\studia\\7sem\\zto\\lab_behav_198157\\tddlab.core.tests\\processing\\invoicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A7F905-C4D1-4D39-A488-06585DE6A7F1}|TDDLab.Core.Tests\\TDDLab.Core.Tests.csproj|solutionrelative:tddlab.core.tests\\processing\\invoicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerImpl.cs",
+              "DocumentMoniker": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core\\Processing\\WorkerImpl.cs",
+              "RelativeDocumentMoniker": "TDDLab.Core\\Processing\\WorkerImpl.cs",
+              "ToolTip": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core\\Processing\\WorkerImpl.cs",
+              "RelativeToolTip": "TDDLab.Core\\Processing\\WorkerImpl.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:55:20.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceProcessorImpl.cs",
+              "DocumentMoniker": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core\\Processing\\InvoiceProcessorImpl.cs",
+              "RelativeDocumentMoniker": "TDDLab.Core\\Processing\\InvoiceProcessorImpl.cs",
+              "ToolTip": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core\\Processing\\InvoiceProcessorImpl.cs",
+              "RelativeToolTip": "TDDLab.Core\\Processing\\InvoiceProcessorImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:55:19.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerImplTests.cs",
+              "DocumentMoniker": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core.Tests\\Processing\\WorkerImplTests.cs",
+              "RelativeDocumentMoniker": "TDDLab.Core.Tests\\Processing\\WorkerImplTests.cs",
+              "ToolTip": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core.Tests\\Processing\\WorkerImplTests.cs",
+              "RelativeToolTip": "TDDLab.Core.Tests\\Processing\\WorkerImplTests.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:55:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceProcessorImplTests.cs",
+              "DocumentMoniker": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core.Tests\\Processing\\InvoiceProcessorImplTests.cs",
+              "RelativeDocumentMoniker": "TDDLab.Core.Tests\\Processing\\InvoiceProcessorImplTests.cs",
+              "ToolTip": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core.Tests\\Processing\\InvoiceProcessorImplTests.cs",
+              "RelativeToolTip": "TDDLab.Core.Tests\\Processing\\InvoiceProcessorImplTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:54:46.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceBuilder.cs",
+              "DocumentMoniker": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core.Tests\\Processing\\InvoiceBuilder.cs",
+              "RelativeDocumentMoniker": "TDDLab.Core.Tests\\Processing\\InvoiceBuilder.cs",
+              "ToolTip": "D:\\studia\\7Sem\\ZTO\\lab_behav_198157\\TDDLab.Core.Tests\\Processing\\InvoiceBuilder.cs",
+              "RelativeToolTip": "TDDLab.Core.Tests\\Processing\\InvoiceBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:49:33.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

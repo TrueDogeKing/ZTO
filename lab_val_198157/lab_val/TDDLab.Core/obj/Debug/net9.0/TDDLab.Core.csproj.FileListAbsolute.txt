@@ -1,0 +1,15 @@
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\bin\Debug\net9.0\TDDLab.Core.deps.json
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\bin\Debug\net9.0\TDDLab.Core.dll
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\bin\Debug\net9.0\TDDLab.Core.pdb
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\bin\Debug\net9.0\BasicUtils.dll
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\bin\Debug\net9.0\BasicUtils.pdb
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.Core.csproj.AssemblyReference.cache
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.Core.AssemblyInfoInputs.cache
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.Core.AssemblyInfo.cs
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.Core.csproj.CoreCompileInputs.cache
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.C.0B8BC993.Up2Date
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.Core.dll
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\refint\TDDLab.Core.dll
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\TDDLab.Core.pdb
+D:\studia\7Sem\ZTO\lab_val_198157\lab_val\TDDLab.Core\obj\Debug\net9.0\ref\TDDLab.Core.dll
